@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Ai and Deep learning enthusiast <br>🌱 I’m currently learning Rag  pipeline.<br><br>👯 I’m looking to collaborate on open source projects and internships.<br><br>📫 How to reach me roshansagar6266@gmail.com
+A passionate SDLC and  Deep learning enthusiast <br>🌱 I’m currently learning Rag  pipeline.<br><br>👯 I’m looking to collaborate on open source projects and internships.<br><br>📫 How to reach me roshansagar6266@gmail.com
 
 
 ## 🌐 Socials:
